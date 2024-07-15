@@ -10,3 +10,11 @@
 similarly for client.
 
 you can now import this pkcs12 file in chrome or any browser. since certificate is self signed , u will get untrusted ie chrome will say site is not safe then click proceed to url
+
+## Uses of different file formats :
+
+.pem: Generic container for various cryptographic data.
+.cer/.cert: Store certificates.
+.csr: Used to request certificates.
+.key: Contains private keys.
+.pkcs12: Bundle of cryptographic objects, usually including certificates and private keys.
