@@ -13,8 +13,8 @@ you can now import this pkcs12 file in chrome or any browser. since certificate 
 
 ## Uses of different file formats :
 
-.pem: Generic container for various cryptographic data.
-.cer/.cert: Store certificates.
-.csr: Used to request certificates.
-.key: Contains private keys.
-.pkcs12: Bundle of cryptographic objects, usually including certificates and private keys.
+1) .pem: Generic container for various cryptographic data.
+2) .cer/.cert: Store certificates.
+3) .csr: Used to request certificates.
+4) .key: Contains private keys.
+5) .pkcs12: Bundle of cryptographic objects, usually including certificates and private keys.
